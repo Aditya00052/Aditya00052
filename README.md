@@ -4,7 +4,7 @@
 My passion for data science began with a drive to solve meaningful problems and discover insights from data. The field's diverse applications and rapid advancements have cemented my belief that data science is my path forward for innovation and impact.
 
 
-- 🔭 I’m currently working on ... Graph Neural Networks
+- 🔭 I’m currently working on ... RAG models 
 - 🌱 I’m currently learning ... Deep Learning
 - 👯 I’m looking to collaborate on ... Machine Learning
 - 🤔 I’m looking for help with ... Big Data Analysis
